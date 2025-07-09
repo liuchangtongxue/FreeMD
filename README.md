@@ -6,6 +6,6 @@ This is the official implementation for paper "FreeMD: Training-Free Multi-domai
 - we investigate the relationship between frequency domain features and structure control because high-frequency features are good at expressing more texture detail and edge structure.
 
 <center>
-<img src="https://github.com/liuchangtongxue/FreeMD/blob/main/fig2.jpg" width="30%"> 
+<img src="https://github.com/liuchangtongxue/FreeMD/blob/main/fig2.jpg" width="90%"> 
 </center>
 
